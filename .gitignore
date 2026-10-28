@@ -1,0 +1,34 @@
+# 本地凭据（绝不入库）
+cookie.json
+cookie.txt
+pkey.txt
+
+# 运行时产物
+tok.log
+out/
+samples/
+__pycache__/
+*.pyc
+
+# 逆向过程的中间产物（体积大，不入库）
+js/
+js2/
+js3/
+capture/
+capture-*.json
+debug-*.json
+probe_*.json
+out_*.json
+api_shapes.json
+api_params.json
+paths.json
+paths_all.json
+chunks.txt
+home.html
+test_url.txt
+.chrome-profile/
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store
