@@ -1,4 +1,4 @@
-# 小黑盒 Web API 逆向记录 + Python SDK
+# 小黑盒 Web API 逆向 + Python SDK
 
 对 [小黑盒](https://www.xiaoheihe.cn) 网页端（`/app/bbs/home`）的接口逆向结果，附带一个零依赖的
 Python 客户端。纯 HTTP 实现：签名在本地算，不需要浏览器、不需要抓包代理、不需要常驻进程。
